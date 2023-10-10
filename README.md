@@ -15,6 +15,7 @@ The application is built using Java in Android Studio and leverages the device's
 ```bash
   git clone https://github.com/abhig1599/She_Shield.git
 ```
+
 ## Features
 
 - Access through Voice
